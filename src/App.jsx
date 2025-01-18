@@ -108,7 +108,7 @@ function MyWork() {
      <div className="flex flex-wrap gap-6 ml-5 justify-center w-[450px]">
   {/* Card */}
   <Card
-    imageSrc="/assets/tugas-ktp.png"
+    imageSrc="/assets/tugas-pertemuan13.png"
     title="Tugas Pertemuan 13"
     buttonText="Open Task"
     link="https://acelino-tugaspertemuan13.netlify.app/"
